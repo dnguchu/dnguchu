@@ -42,7 +42,6 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priye-1&show_icons=true&locale=en" alt="priye" /></p>
 
 
 <!--
